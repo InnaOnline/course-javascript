@@ -1,4 +1,5 @@
-Выпускной проект №2 Курса "Комплексное обучение Javascript" от Loftschool. Обучение профессии Frontend-разработчик
+Выпускной проект №2 Курса "Комплексное обучение Javascript" от Loftschool. 
+Обучение профессии Frontend-разработчик
 
 ## Javascript Boilerplate
 
